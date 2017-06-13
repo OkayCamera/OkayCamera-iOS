@@ -1,2 +1,2 @@
-# OkayCamera-ios
-Okay Camera ios application
+# OkayCamera-iOS
+Okay Camera iOS application
